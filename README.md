@@ -8,12 +8,12 @@ Fight the trolls with SWORDS & MAGIC!
 Things I wanted to exercise:
   Modularity in design (i.e. thinking ahead)
   
-  Multiple funtions structures
+  Multiple-function structures
   
   Classes, constructors
   
   Loops
   
-  Regex (though justa bit)
+  Regex (though just a bit)
   
   Friendly interface design (kidding)
